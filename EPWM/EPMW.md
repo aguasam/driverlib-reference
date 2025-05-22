@@ -1620,17 +1620,19 @@ Um exemplo de cenário de combinação indesejada para `OUT` poderia ser `EPWMxA
 
 **Fundamentais**
 
-* Real-Time Control Reference Guide
-* Primeiros Passos
-* C2000 ePWM Developer’s Guide Application Report - Aplicável apenas a: F280013x, F280015x, F28002x, F28003x, F28004x, F2807x, F2837x, F2838x, F28P55x, F28P65x
-* Enhanced Pulse Width Modulator (ePWM) Training for C2000 MCUs - Aplicável apenas a: F280013x, F280015x, F28002x, F28003x, F28004x, F2837x, F2838x, F28P55x, F28P65x
-* Getting Started with the C2000 ePWM Module
-* C28x Academy - EPWM
-* Using the Enhanced Pulse Width Modulator (ePWM) Module Application Report
+* [Real-Time Control Reference Guide](https://www.ti.com/lit/eb/slyy211/slyy211.pdf)
+  
+**Primeiros Passos**
+
+* [C2000 ePWM Developer’s Guide Application Report](https://www.ti.com/lit/sprad12) - Aplicável apenas a: F280013x, F280015x, F28002x, F28003x, F28004x, F2807x, F2837x, F2838x, F28P55x, F28P65x
+* [Enhanced Pulse Width Modulator (ePWM) Training for C2000 MCUs](https://www.ti.com/video/series/C2000-enhanced-pulse-width-modulator.html) - Aplicável apenas a: F280013x, F280015x, F28002x, F28003x, F28004x, F2837x, F2838x, F28P55x, F28P65x
+* [Getting Started with the C2000 ePWM Module](https://www.ti.com/video/5775904537001)
+* [C28x Academy - EPWM](https://dev.ti.com/tirex/explore/node?node=A__AaKBh5Iw4k3VWS3akgXWzA__C28X-ACADEMY__1sbHxUB__LATEST)
+* [Using the Enhanced Pulse Width Modulator (ePWM) Module Application Report](https://ti.com/lit/SPRAAI1)
 
 **Expert**
 
-* C2000 real-time microcontrollers - Reference designs
-* CRM/ZVS PFC Implementation Based on C2000 Type-4 PWM Module Application Report - Aplicável apenas a: F280013x, F280015x, F28002x, F28003x, F28004x, F2837x, F2838x, F28P55x
-* Leverage New Type ePWM Features for Multiple Phase Control Application Report - Aplicável apenas a: F280013x, F280015x, F28002x, F28003x, F28004x, F2837x, F2838x, F28P55x, F28P65x
+* [C2000 real-time microcontrollers - Reference designs](https://www.ti.com/reference-designs/index.html#search?famid=4,5014)
+* [CRM/ZVS PFC Implementation Based on C2000 Type-4 PWM Module Application Report](https://ti.com/lit/SPRACX0) - Aplicável apenas a: F280013x, F280015x, F28002x, F28003x, F28004x, F2837x, F2838x, F28P55x
+* [Leverage New Type ePWM Features for Multiple Phase Control Application Report](https://ti.com/lit/SPRACY1) - Aplicável apenas a: F280013x, F280015x, F28002x, F28003x, F28004x, F2837x, F2838x, F28P55x, F28P65x
 ```
