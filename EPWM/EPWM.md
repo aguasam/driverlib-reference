@@ -2,21 +2,21 @@
 
 # Summary
 
-  - [Introduction](https://www.google.com/search?q=%23introduction)
-  - [Section 1: EPWM Driver Functions](https://www.google.com/search?q=%23section-1-epwm-driver-functions)
-      - [1.1 `EPWM_setEmulationMode()`](https://www.google.com/search?q=%2311-epwm_setemulationmode)
-      - [1.2 `EPWM_configureSignal()`](https://www.google.com/search?q=%2312-epwm_configuresignal)
-  - [Section 2: Helper Functions (Mentioned within `EPWM_configureSignal()`)](https://www.google.com/search?q=%23section-2-helper-functions-mentioned-within-epwm_configuresignal)
-      - [2.1 `EPWM_setClockPrescaler()`](https://www.google.com/search?q=%2321-epwm_setclockprescaler)
-      - [2.2 `EPWM_setTimeBaseCounterMode()`](https://www.google.com/search?q=%2322-epwm_settimebasecountermode)
-      - [2.3 `EPWM_setTimeBasePeriod()`](https://www.google.com/search?q=%2323-epwm_settimebaseperiod)
-      - [2.4 `EPWM_disablePhaseShiftLoad()`](https://www.google.com/search?q=%2324-epwm_disablephaseshiftload)
-      - [2.5 `EPWM_setPhaseShift()`](https://www.google.com/search?q=%2325-epwm_setphaseshift)
-      - [2.6 `EPWM_setTimeBaseCounter()`](https://www.google.com/search?q=%2326-epwm_settimebasecounter)
-      - [2.7 `EPWM_setCounterCompareShadowLoadMode()`](https://www.google.com/search?q=%2327-epwm_setcountercompareshadowloadmode)
-      - [2.8 `EPWM_setCounterCompareValue()`](https://www.google.com/search?q=%2328-epwm_setcountercomparevalue)
-      - [2.9 `EPWM_setActionQualifierAction()`](https://www.google.com/search?q=%2329-epwm_setactionqualifieraction)
-      - [2.10 `EPWM_isBaseValid()`](https://www.google.com/search?q=%23210-epwm_isbasevalid)
+  - [Introdução](#introdução)
+- [Seção 1: Funções do Driver EPWM](#seção-1-funções-do-driver-epwm)
+  - [1.1 `EPWM_setEmulationMode()`](#11-epwm_setemulationmode)
+  - [1.2 `EPWM_configureSignal()`](#12-epwm_configuresignal)
+- [Seção 2: Funções Auxiliares (Mencionadas dentro de `EPWM_configureSignal()`)](#seção-2-funções-auxiliares-mencionadas-dentro-de-epwm_configuresignal)
+  - [2.1 `EPWM_setClockPrescaler()`](#21-epwm_setclockprescaler)
+  - [2.2 `EPWM_setTimeBaseCounterMode()`](#22-epwm_settimebasecountermode)
+  - [2.3 `EPWM_setTimeBasePeriod()`](#23-epwm_settimebaseperiod)
+  - [2.4 `EPWM_disablePhaseShiftLoad()`](#24-epwm_disablephaseshiftload)
+  - [2.5 `EPWM_setPhaseShift()`](#25-epwm_setphaseshift)
+  - [2.6 `EPWM_setTimeBaseCounter()`](#26-epwm_settimebasecounter)
+  - [2.7 `EPWM_setCounterCompareShadowLoadMode()`](#27-epwm_setcountercompareshadowloadmode)
+  - [2.8 `EPWM_setCounterCompareValue()`](#28-epwm_setcountercomparevalue)
+  - [2.9 `EPWM_setActionQualifierAction()`](#29-epwm_setactionqualifieraction)
+  - [2.10 `EPWM_isBaseValid()`](#210-epwm_isbasevalid)
   
 ## Introduction
 
